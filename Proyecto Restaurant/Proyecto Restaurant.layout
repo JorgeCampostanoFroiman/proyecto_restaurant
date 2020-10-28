@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="plato.cpp" open="1" top="1" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="147" topLine="27" />
+		</Cursor>
+		<Folding>
+			<Collapse line="10" />
+			<Collapse line="19" />
+			<Collapse line="22" />
+			<Collapse line="25" />
+			<Collapse line="28" />
+			<Collapse line="31" />
+			<Collapse line="34" />
+			<Collapse line="38" />
+			<Collapse line="41" />
+			<Collapse line="44" />
+			<Collapse line="47" />
+			<Collapse line="50" />
+			<Collapse line="53" />
+			<Collapse line="58" />
+			<Collapse line="69" />
+			<Collapse line="85" />
+			<Collapse line="107" />
+		</Folding>
+	</File>
+	<File name="detalleVenta.h" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="142" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="42" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="fecha.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="389" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="detalleventa.cpp" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="873" topLine="12" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="13" />
+			<Collapse line="16" />
+			<Collapse line="19" />
+			<Collapse line="22" />
+			<Collapse line="26" />
+			<Collapse line="29" />
+			<Collapse line="32" />
+			<Collapse line="35" />
+		</Folding>
+	</File>
+	<File name="persona.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1421" topLine="9" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="13" />
+			<Collapse line="16" />
+			<Collapse line="19" />
+			<Collapse line="22" />
+			<Collapse line="25" />
+			<Collapse line="29" />
+			<Collapse line="32" />
+			<Collapse line="35" />
+			<Collapse line="38" />
+			<Collapse line="41" />
+		</Folding>
+	</File>
+	<File name="persona.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="546" topLine="17" />
+		</Cursor>
+	</File>
+	<File name="plato.h" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="501" topLine="17" />
+		</Cursor>
+	</File>
+	<File name="cliente.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="351" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="venta.h" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="683" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+		</Folding>
+	</File>
+	<File name="trabajador.cpp" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1570" topLine="11" />
+		</Cursor>
+		<Folding>
+			<Collapse line="13" />
+			<Collapse line="16" />
+			<Collapse line="19" />
+			<Collapse line="22" />
+			<Collapse line="26" />
+			<Collapse line="29" />
+			<Collapse line="32" />
+			<Collapse line="35" />
+		</Folding>
+	</File>
+	<File name="trabajador.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="299" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="venta.cpp" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1516" topLine="4" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="16" />
+			<Collapse line="19" />
+			<Collapse line="22" />
+			<Collapse line="25" />
+			<Collapse line="28" />
+			<Collapse line="31" />
+		</Folding>
+	</File>
+	<File name="cliente.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="571" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="12" />
+			<Collapse line="15" />
+			<Collapse line="18" />
+			<Collapse line="21" />
+			<Collapse line="24" />
+			<Collapse line="32" />
+		</Folding>
+	</File>
+	<File name="fecha.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="678" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="7" />
+			<Collapse line="13" />
+			<Collapse line="16" />
+			<Collapse line="19" />
+		</Folding>
+	</File>
+	<File name="menu.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3163" topLine="40" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="16" />
+			<Collapse line="21" />
+			<Collapse line="27" />
+			<Collapse line="31" />
+			<Collapse line="35" />
+			<Collapse line="41" />
+			<Collapse line="55" />
+			<Collapse line="81" />
+			<Collapse line="117" />
+		</Folding>
+	</File>
+	<File name="menu.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="242" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

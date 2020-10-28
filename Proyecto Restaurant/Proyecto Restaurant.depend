@@ -1,0 +1,232 @@
+# depslib dependency file v1.0
+1603558702 source:c:\users\diego ciccarelli\desktop\proyecto restaurant\main.cpp
+	<iostream>
+	"menu.h"
+
+1603657782 source:c:\users\diego ciccarelli\desktop\proyecto restaurant\fecha.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	"fecha.h"
+
+1603656454 c:\users\diego ciccarelli\desktop\proyecto restaurant\fecha.h
+
+1603558532 c:\users\diego ciccarelli\desktop\proyecto restaurant\menu.h
+
+1603660903 source:c:\users\diego ciccarelli\desktop\proyecto restaurant\menu.cpp
+	<iostream>
+	"Menu.h"
+	"fecha.h"
+	"rlutil.h"
+
+1571584339 c:\users\diego ciccarelli\desktop\proyecto restaurant\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1603660700 source:c:\users\diego ciccarelli\desktop\proyecto restaurant\persona.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+
+1603658901 c:\users\diego ciccarelli\desktop\proyecto restaurant\persona.h
+	"fecha.h"
+
+1603660903 source:c:\users\diego ciccarelli\desktop\proyecto restaurant\cliente.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"cliente.h"
+
+1603657201 source:c:\users\diego ciccarelli\desktop\proyecto restaurant\trabajador.cpp
+
+1603660742 c:\users\diego ciccarelli\desktop\proyecto restaurant\cliente.h
+	"persona.h"
+
+1603740498 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\cliente.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"cliente.h"
+
+1603750805 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\persona.h
+	"fecha.h"
+
+1603642054 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\fecha.h
+
+1603646342 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\cliente.h
+	"persona.h"
+
+1603740498 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\fecha.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	"fecha.h"
+
+1603544302 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\main.cpp
+	<iostream>
+	"menu.h"
+
+1603544132 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\menu.h
+
+1603646502 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\menu.cpp
+	<iostream>
+	"Menu.h"
+	"fecha.h"
+	"rlutil.h"
+
+1571569938 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1603750936 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\persona.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+
+1603751269 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\trabajador.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"trabajador.h"
+
+1603751039 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\detalleventa.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+
+1603750973 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\detalleventa.h
+	"venta.h"
+	"fecha.h"
+
+1603751063 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\venta.h
+	"fecha.h"
+
+1603751160 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\plato.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"plato.h"
+
+1603751160 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\plato.h
+
+1603751125 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\trabajador.h
+	"persona.h"
+	"fecha.h"
+
+1603740498 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\cliente.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"cliente.h"
+
+1603750805 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\persona.h
+	"fecha.h"
+
+1603642054 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\fecha.h
+
+1603646342 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\cliente.h
+	"persona.h"
+
+1603751039 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\detalleventa.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+
+1603750973 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\detalleventa.h
+	"venta.h"
+	"fecha.h"
+
+1603751063 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\venta.h
+	"fecha.h"
+
+1603740498 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\fecha.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	"fecha.h"
+
+1603544302 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\main.cpp
+	<iostream>
+	"menu.h"
+
+1603752399 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\menu.h
+
+1603756448 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\persona.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+
+1603850210 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\plato.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"plato.h"
+	"menu.h"
+
+1603849661 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\plato.h
+
+1603751269 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\trabajador.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"trabajador.h"
+
+1603751125 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\trabajador.h
+	"persona.h"
+	"fecha.h"
+
+1603751352 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\venta.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"venta.h"
+
+1603848407 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\menu.cpp
+	<iostream>
+	"Menu.h"
+	"fecha.h"
+	"rlutil.h"
+	"plato.h"
+
+1571569938 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
